@@ -1,0 +1,46 @@
+{
+  "aurea": {
+    "font-size": {
+      "g": {
+        "type": "number",
+        "value": 60
+      },
+      "lg": {
+        "type": "number",
+        "value": 24
+      },
+      "md": {
+        "type": "number",
+        "value": 17
+      },
+      "sm": {
+        "type": "number",
+        "value": 14
+      },
+      "xg": {
+        "type": "number",
+        "value": 72
+      },
+      "xl": {
+        "type": "number",
+        "value": 32
+      },
+      "xs": {
+        "type": "number",
+        "value": 12
+      },
+      "xxg": {
+        "type": "number",
+        "value": 80
+      },
+      "xxl": {
+        "type": "number",
+        "value": 40
+      },
+      "xxxl": {
+        "type": "number",
+        "value": 48
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "aurea": {
+    "input": {
+      "bg": {
+        "enabled": {
+          "type": "color",
+          "value": "#f6f6f6"
+        },
+        "mouse-in": {
+          "type": "color",
+          "value": "#f6f6f6"
+        },
+        "target": {
+          "type": "color",
+          "value": "#ffffff"
+        }
+      },
+      "padding": {
+        "compact": {
+          "type": "number",
+          "value": "{spacing.md}"
+        },
+        "large": {
+          "type": "number",
+          "value": "{spacing.xxxl}"
+        },
+        "regular": {
+          "type": "number",
+          "value": "{spacing.xxl}"
+        }
+      }
+    }
+  }
+}
