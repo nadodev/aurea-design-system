@@ -1,0 +1,846 @@
+{
+  "aurea": {
+    "bg": {
+      "brand-primary": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.brand-primary}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#506793"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#506793"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#7283a8"
+          },
+          "target": {
+            "type": "color",
+            "value": "#1f4679"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#e8ebf1"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#edeff4"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#edeff4"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#f1f2f6"
+          },
+          "target": {
+            "type": "color",
+            "value": "#e8ebf1"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#1a2c48"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#455169"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#455169"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#687185"
+          },
+          "target": {
+            "type": "color",
+            "value": "#1a2c48"
+          }
+        }
+      },
+      "brand-secondary": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.brand-secondary}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#71c576"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#71c576"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#90d191"
+          },
+          "target": {
+            "type": "color",
+            "value": "#45b654"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#ddf1dc"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#e4f4e3"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#e4f4e3"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#e9f6e9"
+          },
+          "target": {
+            "type": "color",
+            "value": "#ddf1dc"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#2f6934"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#588659"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#588659"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#789d78"
+          },
+          "target": {
+            "type": "color",
+            "value": "#2f6934"
+          }
+        }
+      },
+      "brand-tertiary": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.brand-tertiary}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#c8ac90"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#c8ac90"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#d3bca5"
+          },
+          "target": {
+            "type": "color",
+            "value": "#b99876"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#f2eae2"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#f5eee8"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#f5eee8"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#f7f1ed"
+          },
+          "target": {
+            "type": "color",
+            "value": "#f2eae2"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#6b5946"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#877868"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#877868"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#9e9184"
+          },
+          "target": {
+            "type": "color",
+            "value": "#877868"
+          }
+        }
+      },
+      "critical": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.critical}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#ad6562"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#ad6562"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#bf837f"
+          },
+          "target": {
+            "type": "color",
+            "value": "#954040"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#ecd7d5"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#f0dfdd"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#f0dfdd"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#f3e5e4"
+          },
+          "target": {
+            "type": "color",
+            "value": "#ecd7d5"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#582928"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#79504d"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#79504d"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#94706d"
+          },
+          "target": {
+            "type": "color",
+            "value": "#582928"
+          }
+        }
+      },
+      "cta": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.cta}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#71c576"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#71c576"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#90d191"
+          },
+          "target": {
+            "type": "color",
+            "value": "#45b654"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#ddf1dc"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#e4f4e3"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#e4f4e3"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#e9f6e9"
+          },
+          "target": {
+            "type": "color",
+            "value": "#ddf1dc"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#2f6934"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#588659"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#588659"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#789d78"
+          },
+          "target": {
+            "type": "color",
+            "value": "#2f6934"
+          }
+        }
+      },
+      "highlight": {
+        "type": "color",
+        "value": "#bcc3d6"
+      },
+      "info": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.info}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#506793"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#506793"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#7283a8"
+          },
+          "target": {
+            "type": "color",
+            "value": "#1f4679"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#d2d7e3"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#dbdfe9"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#dbdfe9"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#e2e5ed"
+          },
+          "target": {
+            "type": "color",
+            "value": "#d2d7e3"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#1a2c48"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#455169"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#455169"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#687185"
+          },
+          "target": {
+            "type": "color",
+            "value": "#1a2c48"
+          }
+        }
+      },
+      "inverse": {
+        "enabled": {
+          "type": "color",
+          "value": "#303030"
+        },
+        "mouse-in": {
+          "type": "color",
+          "value": "#545454"
+        },
+        "selected": {
+          "type": "color",
+          "value": "#545454"
+        },
+        "selected-mouse-in": {
+          "type": "color",
+          "value": "#737373"
+        },
+        "target": {
+          "type": "color",
+          "value": "#303030"
+        }
+      },
+      "main": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "#f6f6f6"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#dde1ea"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#dde1ea"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#e4e7ee"
+          },
+          "target": {
+            "type": "color",
+            "value": "#f6f6f6"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.white}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#e8ebf1"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#e8ebf1"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#edeff4"
+          },
+          "target": {
+            "type": "color",
+            "value": "#ffffff"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#e8e8e8"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#d2d7e3"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#d2d7e3"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#dbdfe9"
+          },
+          "target": {
+            "type": "color",
+            "value": "#e8e8e8"
+          }
+        }
+      },
+      "success": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.success}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#5da186"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#5da186"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#7eb49d"
+          },
+          "target": {
+            "type": "color",
+            "value": "#2e8a6b"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#d6e7e0"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#deece6"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#deece6"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#e5f0eb"
+          },
+          "target": {
+            "type": "color",
+            "value": "#d6e7e0"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#225140"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#4d7162"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#4d7162"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#6f8c7f"
+          },
+          "target": {
+            "type": "color",
+            "value": "#225140"
+          }
+        }
+      },
+      "warning": {
+        "balanced": {
+          "enabled": {
+            "type": "color",
+            "value": "{aurea.warning}"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#c8a862"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#c8a862"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#d4b981"
+          },
+          "target": {
+            "type": "color",
+            "value": "#b8943b"
+          }
+        },
+        "minimal": {
+          "enabled": {
+            "type": "color",
+            "value": "#f3e9d7"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#f5eddf"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#f5eddf"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#f7f1e5"
+          },
+          "target": {
+            "type": "color",
+            "value": "#f3e9d7"
+          }
+        },
+        "strong": {
+          "enabled": {
+            "type": "color",
+            "value": "#6b5727"
+          },
+          "mouse-in": {
+            "type": "color",
+            "value": "#88764f"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#88764f"
+          },
+          "selected-mouse-in": {
+            "type": "color",
+            "value": "#a09070"
+          },
+          "target": {
+            "type": "color",
+            "value": "#6b5727"
+          }
+        }
+      }
+    },
+    "border-color": {
+      "balanced": {
+        "type": "color",
+        "value": "#c6c6c6"
+      },
+      "brand-primary": {
+        "type": "color",
+        "value": "{aurea.brand-primary}"
+      },
+      "brand-primary-inverse": {
+        "type": "color",
+        "value": "#7082a7"
+      },
+      "brand-secondary": {
+        "type": "color",
+        "value": "{aurea.brand-secondary}"
+      },
+      "brand-secondary-inverse": {
+        "type": "color",
+        "value": "#8ed08f"
+      },
+      "brand-tertiary": {
+        "type": "color",
+        "value": "{aurea.brand-tertiary}"
+      },
+      "brand-tertiary-inverse": {
+        "type": "color",
+        "value": "#d6c0ab"
+      },
+      "critical": {
+        "type": "color",
+        "value": "{aurea.critical}"
+      },
+      "critical-inverse": {
+        "type": "color",
+        "value": "#ba8383"
+      },
+      "cta": {
+        "type": "color",
+        "value": "{aurea.cta}"
+      },
+      "cta-inverse": {
+        "type": "color",
+        "value": "#87d08f"
+      },
+      "info": {
+        "type": "color",
+        "value": "{aurea.brand-primary}"
+      },
+      "info-inverse": {
+        "type": "color",
+        "value": "#7082a7"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{aurea.white}"
+      },
+      "minimal": {
+        "type": "color",
+        "value": "#e2e2e2"
+      },
+      "strong": {
+        "type": "color",
+        "value": "#9e9e9e"
+      },
+      "success": {
+        "type": "color",
+        "value": "{aurea.success}"
+      },
+      "success-inverse": {
+        "type": "color",
+        "value": "#77b39f"
+      },
+      "warning": {
+        "type": "color",
+        "value": "{aurea.warning}"
+      },
+      "warning-inverse": {
+        "type": "color",
+        "value": "#d1b980"
+      }
+    },
+    "content": {
+      "balanced": {
+        "type": "color",
+        "value": "#303030"
+      },
+      "brand-primary": {
+        "type": "color",
+        "value": "{aurea.brand-primary}"
+      },
+      "brand-primary-inverse": {
+        "type": "color",
+        "value": "#7082a7"
+      },
+      "brand-secondary": {
+        "type": "color",
+        "value": "#317238"
+      },
+      "brand-secondary-inverse": {
+        "type": "color",
+        "value": "#8ed08f"
+      },
+      "brand-tertiary": {
+        "type": "color",
+        "value": "#7e6852"
+      },
+      "brand-tertiary-inverse": {
+        "type": "color",
+        "value": "#d6c0ab"
+      },
+      "critical": {
+        "type": "color",
+        "value": "{aurea.critical}"
+      },
+      "critical-inverse": {
+        "type": "color",
+        "value": "#be817e"
+      },
+      "cta": {
+        "type": "color",
+        "value": "#317238"
+      },
+      "cta-inverse": {
+        "type": "color",
+        "value": "#8ed08f"
+      },
+      "info": {
+        "type": "color",
+        "value": "{aurea.brand-primary}"
+      },
+      "info-inverse": {
+        "type": "color",
+        "value": "#7082a7"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{aurea.white}"
+      },
+      "minimal": {
+        "type": "color",
+        "value": "#686868"
+      },
+      "placeholder": {
+        "type": "color",
+        "value": "#8a8a8a"
+      },
+      "strong": {
+        "type": "color",
+        "value": "#070707"
+      },
+      "success": {
+        "type": "color",
+        "value": "#245845"
+      },
+      "success-inverse": {
+        "type": "color",
+        "value": "#7cb39c"
+      },
+      "warning": {
+        "type": "color",
+        "value": "#745e2a"
+      },
+      "warning-inverse": {
+        "type": "color",
+        "value": "#d4b87f"
+      }
+    },
+    "shadow-color": {
+      "neutral": {
+        "type": "color",
+        "value": "rgba(0, 0, 0, 0.1000)"
+      }
+    },
+    "sidenav": {
+      "bg": {
+        "brand-primary": {
+          "type": "color",
+          "value": "#1a2c48"
+        }
+      },
+      "divider": {
+        "border-color": {
+          "type": "color",
+          "value": "#7082a7"
+        }
+      }
+    },
+    "state": {
+      "border-color": {
+        "target": {
+          "type": "color",
+          "value": "#5b709a"
+        }
+      },
+      "shadow-color": {
+        "target": {
+          "type": "color",
+          "value": "{aurea.black}"
+        }
+      }
+    }
+  }
+}
